@@ -1,0 +1,27 @@
+div{
+    width:calc( 25% - 40px );/* 1424*/
+    /*height: 400px;*/
+    float: left;/*left or right*/
+    margin: 10px 20px 15px 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    box-shadow: 0 0 5px gray;
+    border-radius: 5px;
+    transition: all 250ms;
+}
+div:hover{
+    box-shadow: 0 0 5px green;
+    background-color: chartreuse;
+    transform: scale(1.02);
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+div a{
+    color: red;
+    text-decoration: none;
+}
+.groupx{
+    background-color: blueviolet;
+}
