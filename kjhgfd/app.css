@@ -1,0 +1,25 @@
+body{
+    background-image: url();
+    background-size: ;
+}
+h1{
+    color: rgb(14, 8, 8);
+
+}
+p{
+    color: rgb(247, 17, 17);
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: none;
+    font-weight: normal;
+    /*100-thin 200-semi-light 300-light 400-normal 500-medium 600-semibold
+    700-bold 800extrabold 900-black
+    */
+    background-color: rgb(14, 231, 231);
+    width: 600px;
+    border-bottom: 1px solid #291e07;
+}
+    
